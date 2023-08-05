@@ -1,3 +1,3 @@
 ### Project Initial Design
 
-![Project Initial Design](https://ibb.co/dQq09mF)
+![Initial Design](https://i.imgur.com/8Wg2Swa.png)
